@@ -8,4 +8,4 @@ t = args.text
 
 print("the given string",t)
 print("all upper case",t.upper())
-print("all lower case",t.upper())
+print("all lower case",t.lower())
